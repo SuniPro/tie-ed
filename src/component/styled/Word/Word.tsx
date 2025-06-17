@@ -55,7 +55,7 @@ const Word = styled.span<{
     activeColor = theme.mode.textAccent,
     fontSize,
     fontWeight,
-    fontStyle
+    fontStyle,
   }) => css`
     ${size && "width: ${size.width}px; height: ${size.height}px;"}
     margin: 0;
