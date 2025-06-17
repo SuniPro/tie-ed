@@ -13,7 +13,6 @@ import { Fragment, useEffect, useLayoutEffect, useRef, useState } from "react";
 import { FuncItem } from "../component/styled/Button/Button";
 import { ContentsContainer, PageContainer } from "../component/layouts/Layouts";
 import PlayCircleIcon from "@mui/icons-material/PlayCircle";
-import { LiveCasino } from "../component/Casino/LiveCasino";
 
 const imageList = [inner_casino, casino_lounge, poker, red_casino, poker_light];
 
@@ -213,9 +212,6 @@ export function Main() {
               setSelectedIndex={setSelectedIndex}
             />
           </div>
-        </ContentsContainer>
-        <ContentsContainer>
-          <LiveCasino title="LIVE CASINO" titleView={true}></LiveCasino>
         </ContentsContainer>
       </PageContainer>
     </>
