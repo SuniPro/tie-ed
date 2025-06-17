@@ -5,7 +5,7 @@ import { GlobalStyled } from "./component/layouts/Layouts";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { useDarkMode } from "usehooks-ts";
 import { ThemeProvider } from "@emotion/react";
-import { darkTheme, lightTheme } from "./styles/theme";
+import { darkTheme } from "./styles/theme";
 import { Toaster } from "react-hot-toast";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import { Main } from "./page/Main";
