@@ -1,4 +1,4 @@
-# 🎬 [Project Name] - Modern Video Streaming Platform
+# 🎬 [TIE-ED] - Modern Video Streaming Platform
 
 > A sleek and immersive video streaming application built with  
 > **React + TypeScript + Vite + Emotion**, inspired by the aesthetics of **Apple** and **Netflix**.
@@ -20,10 +20,7 @@
 
 > See the actual UI/UX in action below 🎬
 
-<video width="100%" controls>
-  <source src="https://raw.githubusercontent.com/SuniPro/assets/main/tie-ed-demo-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+🎬 [Click to Watch Demo](https://raw.githubusercontent.com/SuniPro/assets/main/tie-ed-demo-video.mp4)
 
 ---
 
